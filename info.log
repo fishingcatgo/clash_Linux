@@ -1,0 +1,30 @@
+nohup: ignoring input
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider ♻️ 自动选择"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🎯 全球直连"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🌍 国外媒体"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🍃 应用净化"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 📲 电报信息"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🐟 漏网之鱼"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🚀 节点选择"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 📢 谷歌FCM"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🍎 苹果服务"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider 🛑 全球拦截"
+time="2024-03-22T11:12:19+08:00" level=info msg="Start initial compatible provider Ⓜ️ 微软服务"
+2024/03/23 01:02:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:02:35 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:02:35 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:02:35 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:02:35 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:03:00 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:03:01 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:03:44 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/23 01:07:32 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:12:54 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:06 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:06 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:13:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:14:05 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2024/03/26 01:15:59 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192

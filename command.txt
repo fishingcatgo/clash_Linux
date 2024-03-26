@@ -1,0 +1,21 @@
+临时有效
+1、添加代理
+export http_proxy=http://proxyAddress:port
+export https_proxy=http://proxyAddress:port
+export https_proxy=http://127.0.0.1:7890 && export http_proxy=http://127.0.0.1:7890
+ export https_proxy=http://10.65.250.175:7890 && export http_proxy=http://10.65.250.175:7890
+2、查看代理
+env |grep -i proxy
+3、清除代理
+unset http_proxy
+unset https_proxy
+unset http_proxy https_proxy
+4、运行
+./clash -d .
+./clash -f pathofconfig #配置文件路径
+./clash -h 查看相关设置
+./clash -d . -ext-ui ./clashUI/dashboard -ext-ctl '0.0.0.0:8092'  -f jinkela.yaml
+
+nohup ./clash -d . -ext-ui ./clashUI/dashboard -ext-ctl '0.0.0.0:8090'  -f haibin.yaml > info.log 2>&1 &
+
+
