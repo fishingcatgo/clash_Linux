@@ -32,7 +32,7 @@ source /etc/bashrc
 ```
 
 # 配置参数，config.yaml文件
-配置参考教程：
+> 配置参考教程：   
 https://wiki.metacubex.one/config/    
 https://stash.wiki/configuration/example-config    
 https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml  
