@@ -15,9 +15,10 @@ unset http_proxy https_proxy
 ./clash -f pathofconfig #配置文件路径
 ./clash -h 查看相关设置
 ./clash -d . -ext-ui ./clashUI/dashboard -ext-ctl '0.0.0.0:8092'  -f jinkela.yaml
-
 nohup ./clash -d . -ext-ui ./clashUI/dashboard -ext-ctl '0.0.0.0:8090'  -f haibin.yaml > info.log 2>&1 &
-
+4.1、mihomo
+mihomo -d .  -ext-ctl '0.0.0.0:8092'  -f xingjia.yml -ext-ui ./clashUI/mihomoui
+mihomo -d .  -ext-ctl '0.0.0.0:8092'  -ext-ui ./clashUI/mihomoui  -f xingjia.yml
 5、别名
 alias clashon='export https_proxy=http://10.65.250.175:7890 && export http_proxy=http://10.65.250.175:7890'
 alias clashoff='unset http_proxy https_proxy'

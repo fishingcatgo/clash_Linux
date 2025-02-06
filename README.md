@@ -29,6 +29,15 @@ alias clashlist='env |grep -i proxy'
 vim /etc/bashrc
 source /etc/bashrc
 
+6、mihomo(新版clash终端)
+https://github.com/MetaCubeX/mihomo
+下载mihomo对应的deb包进行安装：
+sudo apt install ./xxx.deb
+运行：
+mihomo -d .  -ext-ctl '0.0.0.0:8092'  -f xingjia.yml -ext-ui ./clashUI/mihomoui
+webui为：metacubexd（yacd用不了）
+    https://github.com/MetaCubeX/metacubexd
+    external-controller: 0.0.0.0:9090（配置文件设置，可选）
 ```
 
 # 配置参数，config.yaml文件
@@ -36,6 +45,7 @@ source /etc/bashrc
 https://wiki.metacubex.one/config/    
 https://stash.wiki/configuration/example-config    
 https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml  
+
 
 
 
